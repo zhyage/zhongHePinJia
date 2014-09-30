@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<methods>
+	<method methodName="BiaoZhunZhi_LiXiangFa" select="no">BiaoZhunZhi_LiXiangFa
+    	<functionArgs name="arguments">BiaoZhunZhi_LiXiangFa_Prompt_function
+    	</functionArgs>
+		<callFunction name="BiaoZhunZhi_LiXiangFa">BiaoZhunZhi_LiXiangFa</callFunction>	
+	</method>
+</methods>
+
+

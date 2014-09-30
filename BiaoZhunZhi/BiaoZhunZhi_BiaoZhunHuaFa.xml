@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<methods>
+	<method methodName="BiaoZhunZhi_BiaoZhunHuaFa" select="no">BiaoZhunZhi_BiaoZhunHuaFa
+    	<functionArgs name="arguments">
+    	</functionArgs>
+		<callFunction name="BiaoZhunZhi_BiaoZhunHuaFa">BiaoZhunZhi_BiaoZhunHuaFa</callFunction>	
+	</method>
+</methods>
+
+

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<methods>
+	<method methodName="BiaoZhunZhi_PinFangHeBiZhongFa" select="no">BiaoZhunZhi_PinFangHeBiZhongFa
+    	<functionArgs name="arguments">BiaoZhunZhi_PinFangHeBiZhongFa_Prompt_function
+    	</functionArgs>
+		<callFunction name="BiaoZhunZhi_PinFangHeBiZhongFa">BiaoZhunZhi_PinFangHeBiZhongFa</callFunction>	
+	</method>
+</methods>
+
+

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<methods>
+	<method methodName="BiaoZhunZhi_JiZhiHuaFa" select="no">BiaoZhunZhi_JiZhiHuaFa
+    	<functionArgs>BiaoZhunZhi_JiZhiHuaFa_Prompt_function
+    	</functionArgs>
+		<callFunction name="BiaoZhunZhi_JiZhiHuaFa">BiaoZhunZhi_JiZhiHuaFa</callFunction>	
+	</method>
+</methods>
+
+
